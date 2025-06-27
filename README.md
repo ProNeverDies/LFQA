@@ -1,10 +1,10 @@
-## LFQA
+# LFQA
 Reflective Long Format Question Answering Model with Continuous Feedback-Driven Improvement
 
-# Overview
+## Overview
 This project implements a long-form question answering (LFQA) system using the Facebook BART-base model. It is designed to generate comprehensive, well-structured answers to complex questions. The system also integrates a continuous feedback mechanism that allows users to provide remarks and corrections, enabling the model to improve iteratively over time.
 
-# Features
+## Features
 Facebook BART-base Backbone
 Utilizes BART for high-quality generative text capabilities.
 
